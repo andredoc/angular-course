@@ -1,13 +1,11 @@
 export const COURSES: any = [
 
-    undefined,
-
     {
         id: 1,
-        description: "Angular Core Deep Dive",
+        description: "Angular core deep dive",
         // iconUrl: 'https://s3-us-west-1.amazonaws.com/angular-university/course-images/angular-core-in-depth-small.png',
         longDescription: "A detailed walk-through of the most important part of Angular - the Core and Common modules",
-        category: 'INTERMEDIATE',
+        // category: 'INTERMEDIATE',
         lessonsCount: 10
     },
     {
@@ -32,7 +30,7 @@ export const COURSES: any = [
         description: "Angular for Beginners",
         iconUrl: 'https://angular-academy.s3.amazonaws.com/thumbnails/angular2-for-beginners-small-v2.png',
         longDescription: "Establish a solid layer of fundamentals, learn what's under the hood of Angular",
-        category: 'BEGINNER',
+        // category: 'BEGINNER',
         lessonsCount: 10
     },
     {
